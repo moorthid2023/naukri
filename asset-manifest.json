@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/naukri/static/css/main.20e34dd1.css",
-    "main.js": "/naukri/static/js/main.38b6192c.js",
+    "main.js": "/naukri/static/js/main.38815375.js",
     "static/media/naukri_logo.svg": "/naukri/static/media/naukri_logo.bf9926af4b3686a4135dc9dfda444977.svg",
     "static/media/twitter.svg": "/naukri/static/media/twitter.19bfc4c6c472e642e4ed6ffefc620263.svg",
     "index.html": "/naukri/index.html",
@@ -9,10 +9,10 @@
     "static/media/linkedin.svg": "/naukri/static/media/linkedin.b9cae8539d4c31036f36917ced39486d.svg",
     "static/media/fb.svg": "/naukri/static/media/fb.a53f1d7e86cbec008387b7185b7df61d.svg",
     "main.20e34dd1.css.map": "/naukri/static/css/main.20e34dd1.css.map",
-    "main.38b6192c.js.map": "/naukri/static/js/main.38b6192c.js.map"
+    "main.38815375.js.map": "/naukri/static/js/main.38815375.js.map"
   },
   "entrypoints": [
     "static/css/main.20e34dd1.css",
-    "static/js/main.38b6192c.js"
+    "static/js/main.38815375.js"
   ]
 }
